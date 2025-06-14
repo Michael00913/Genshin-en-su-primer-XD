@@ -1,6 +1,9 @@
 Cl
-on: [push, workflow_dispatch]
-jobe:
+
+on:[push, workflow_dispatch] 
+ 
+jobs:
+
 build:
 runs-on: windows-latest
 steps:
