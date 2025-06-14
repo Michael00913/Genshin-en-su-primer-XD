@@ -1,5 +1,5 @@
  Cl
-on: [push, workflow_dispatch]
+on:[push, workflow_dispatch]
 jobe:
 build:
 runs-on: windows-latest
