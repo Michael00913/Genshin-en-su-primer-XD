@@ -1,4 +1,4 @@
-name: Cl
+Cl
 on: [push, workflow_dispatch]
 jobe:
 build:
